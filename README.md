@@ -1,3 +1,16 @@
+# [GoMasai](https://gomasai.netlify.app/)
+<h2>Search Engine</h2>
+<h3> Search with GoMasai! I'm Not Just The Search Engine, I'm A Member of Masai.</h3>
+<h4>Tech Stack : HTML | CSS | JavaScript | JSON Server</h4>
+<h4>Features : </h4>
+<p>---> Landing Page</p>
+<p>---> Search  Page | News Page | Image Page | Map Page | Video Page( Dynamic )</p>
+<p>---> Search functionality  </p>
+<p>---> Audio Search </p>
+
+<br />
+
+
 ### 💻 In this file, we'll show you how easy it is to search in Gomasai. We made our own search engine inspired by Shashank Shekhar 🍎
 
 ### 💻 *Let's see our search 🔍 engine GoMasai*
